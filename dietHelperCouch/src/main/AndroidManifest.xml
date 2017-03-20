@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bulat.diet.helper_couch"
+    android:installLocation="internalOnly"
+    android:versionCode="1"
+    android:versionName="1" >
+
+    <uses-sdk android:minSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <application
+        android:name="bulat.diet.helper_couch.DietaGramApplication"
+        android:allowBackup="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:backupAgent="bulat.diet.helper_couch.MyBackupAgent"
+        android:icon="@drawable/icon_m"
+        android:label="@string/app_name" >
+
+
+        <service android:name="bulat.diet.helper_couch.service.AlarmService" >
+        </service>
+
+        <activity
+            android:name="bulat.diet.helper_couch.activity.StartActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/splashScreenTheme"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="bulat.diet.helper_couch.activity.DietHelperActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.DishActivityGroup"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.Top10"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:name="bulat.diet.helper_couch.activity.DishActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.DishListActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.VolumeInfo"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.AddTodayDishActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.AddTodayFitnesActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.StatisticExportActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.RecepyListActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.NotificationActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.AddRecepyActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.RecepyActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.StatisticImportActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.SocialUserNewsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.CalendarActivityGroup"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.CalendarActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.TemplateDayActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.TemplateActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.NewTemplateActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.DishListActivityGroup"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.AddDishActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.AddFitnesActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.SettingsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.Info"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.SelectStatisticsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.Statistics"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.StatisticFCPActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.About"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.WeightChartActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.StatisticActivityGroup"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.SportListActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.VkActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.LoginActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="bulat.diet.helper_couch.activity.FreeAbonementActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+
+        <provider
+            android:name="bulat.diet.helper_couch.db.DishProvider"
+            android:authorities="bulat.diet.helper_couch.db.DishProvider" />
+        <provider
+            android:name="bulat.diet.helper_couch.db.SinchProvider"
+            android:authorities="bulat.diet.helper_couch.db.SinchProvider" />
+
+        <receiver android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false"/>
+    </application>
+
+</manifest>

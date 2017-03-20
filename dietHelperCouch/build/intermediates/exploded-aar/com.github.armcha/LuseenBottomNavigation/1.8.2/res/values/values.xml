@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorActive">#FFFFFF</color>
+    <color name="colorInactive">#e7e6e7</color>
+    <color name="itemActiveColorWithoutColoredBackground">#2196F3</color>
+    <color name="white">#ffffff</color>
+    <color name="withoutColoredBackground">#757575</color>
+    <declare-styleable name="BottomNavigationView"><attr format="boolean" name="bnv_with_text"/><attr format="boolean" name="bnv_shadow"/><attr format="boolean" name="bnv_tablet"/><attr format="boolean" name="bnv_colored_background"/><attr format="boolean" name="bnv_viewpager_slide"/><attr format="dimension" name="bnv_active_text_size"/><attr format="dimension" name="bnv_inactive_text_size"/><attr format="color" name="bnv_active_color"/></declare-styleable>
+    <dimen name="bottom_navigation_elevation">8dp</dimen>
+    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="bottom_navigation_icon">24dp</dimen>
+    <dimen name="bottom_navigation_line_width">1dp</dimen>
+    <dimen name="bottom_navigation_max_width">168dp</dimen>
+    <dimen name="bottom_navigation_min_width">104dp</dimen>
+    <dimen name="bottom_navigation_padding_bottom">7dp</dimen>
+    <dimen name="bottom_navigation_padding_left">12dp</dimen>
+    <dimen name="bottom_navigation_padding_right">12dp</dimen>
+    <dimen name="bottom_navigation_padding_top_active">5dp</dimen>
+    <dimen name="bottom_navigation_padding_top_inactive">9dp</dimen>
+    <dimen name="bottom_navigation_padding_top_inactive_without_text">16dp</dimen>
+    <dimen name="bottom_navigation_shadow_height">8dp</dimen>
+    <dimen name="bottom_navigation_shadow_height_without_colored_background">4dp</dimen>
+    <dimen name="bottom_navigation_text_size_active">14sp</dimen>
+    <dimen name="bottom_navigation_text_size_inactive">12sp</dimen>
+</resources>

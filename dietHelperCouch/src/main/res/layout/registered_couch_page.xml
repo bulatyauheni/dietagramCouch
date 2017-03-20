@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/main_color">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarClients"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/light_green"
+        android:contentInsetEnd="0dp"
+        android:contentInsetLeft="0dp"
+        android:contentInsetRight="0dp"
+        android:contentInsetStart="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top">
+
+            <Button
+                android:id="@+id/buttonBack"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/back_button_xml"
+                android:gravity="center_vertical"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/textViewTitle"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@id/buttonBack"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical"
+                android:text="@string/registration"
+                android:textColor="@color/white"
+                android:textSize="19dip"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/add_client_btn"
+                android:layout_width="105dp"
+                android:layout_height="45dp"
+                android:gravity="center_vertical"
+                android:text="Ваш доход: 0 р."
+                android:layout_alignBaseline="@+id/textViewTitle"
+                android:layout_alignBottom="@+id/textViewTitle"
+                android:layout_alignParentRight="true" />
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbarClients">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/tvfirstname"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:ems="10"
+                android:hint="@string/couch_first_name"
+                android:inputType="textPersonName"
+                android:singleLine="true" />
+
+            <TextView
+                android:id="@+id/tvlastname"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="19dp"
+                android:ems="10"
+                android:hint="@string/couch_last_name"
+                android:inputType="textPersonName"
+                android:singleLine="true" />
+
+            <TextView
+                android:id="@+id/tvPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:ems="10"
+                android:hint="@string/couch_phone"
+                android:inputType="phone"
+                android:singleLine="true">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/tvEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:ems="10"
+                android:hint="@string/enter_email"
+                android:inputType="textEmailAddress"
+                android:singleLine="true" />
+
+
+            <Button
+                android:id="@+id/btnIncome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:text="@string/register" />
+
+            <Button
+                android:id="@+id/btnAddClient"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:text="@string/register" />
+
+            <Button
+                android:id="@+id/btnRegister"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:text="@string/register" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

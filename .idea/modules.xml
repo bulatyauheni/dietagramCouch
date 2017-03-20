@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dietHelperCouch/dietHelperCouch.iml" filepath="$PROJECT_DIR$/dietHelperCouch/dietHelperCouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dietagramCouch.iml" filepath="$PROJECT_DIR$/dietagramCouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+    </modules>
+  </component>
+</project>

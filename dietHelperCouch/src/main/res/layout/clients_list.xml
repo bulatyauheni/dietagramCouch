@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/main_color"
+    android:orientation="vertical">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarClients"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/light_green">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top">
+
+            <Button
+                android:id="@+id/buttonBack"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_alignParentLeft="true"
+                android:gravity="center_vertical"
+                android:background="@drawable/back_button_xml"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/textViewTitle"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="5dp"
+                android:ellipsize="end"
+                android:layout_toRightOf="@id/buttonBack"
+                android:gravity="left|center_vertical"
+                android:text="@string/clients"
+                android:textColor="@color/white"
+                android:textSize="19dip"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/add_client_btn"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/btn_add_food" />
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/listClients"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbarClients"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/grey_divider"
+        android:dividerHeight="1dip">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:id="@android:id/empty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout1"
+        android:text="" />
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-es\\category.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-es\\category.txt"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-es\\full_base.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-es\\full_base.txt"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-es\\eye.mp3",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-es\\eye.mp3"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-es\\fitnes.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-es\\fitnes.txt"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-es\\base_create.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-es\\base_create.txt"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_date_picker_dialog_v2.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-land\\mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_time_header_label.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-land\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_time_title_view_v2.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-land\\mdtp_time_title_view_v2.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_date_picker_header_view_v2.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-land\\mdtp_date_picker_header_view_v2.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_time_picker_dialog.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-land\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_time_picker_dialog_v2.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-land\\mdtp_time_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\layout-land\\mdtp_date_picker_dialog.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\layout-land\\mdtp_date_picker_dialog.xml"
+    }
+]

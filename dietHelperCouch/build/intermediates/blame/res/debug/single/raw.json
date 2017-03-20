@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\eye.mp3",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw\\eye.mp3"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.8.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\cloudstorage.properties",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw\\cloudstorage.properties"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\fitnes.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw\\fitnes.txt"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\category.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw\\category.txt"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\base_create.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw\\base_create.txt"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\full_base.txt",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw\\full_base.txt"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw\\dietagrame9d2f531f351.p12",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw\\dietagrame9d2f531f351.p12"
+    }
+]
