@@ -74,7 +74,6 @@ import bulat.diet.helper_couch.item.BodyParams;
 import bulat.diet.helper_couch.item.DishType;
 import bulat.diet.helper_couch.item.NotificationDish;
 import bulat.diet.helper_couch.item.TodayDish;
-import bulat.diet.helper_couch.utils.CustomAlertDialogBuilder;
 import bulat.diet.helper_couch.utils.DialogUtils;
 import bulat.diet.helper_couch.utils.GATraker;
 import bulat.diet.helper_couch.utils.SaveUtils;
@@ -265,9 +264,9 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
         //   mTitleContainer = (LinearLayout) findViewById(R.id.main_linearlayout_title);
         mAppBarLayout = (AppBarLayout) findViewById(R.id.main_appbar);
         ImageView loadButton = (ImageView) findViewById(R.id.loadtemplate);
-        loadButton.setOnClickListener(loadListener);
+
         ImageView saveButton = (ImageView) findViewById(R.id.save_as_template);
-        saveButton.setOnClickListener(saveListener);
+
         header = (TextView) findViewById(R.id.textViewTitle);
         mWeightButton = (ImageView) findViewById(R.id.weightButton);
         mWeighLabel = (TextView) findViewById(R.id.textViewCurrentWeight);
@@ -521,17 +520,17 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
         myItemAdapter.setEventListener(new ExpandableDraggableSwipeableExampleAdapter.EventListener() {
             @Override
             public void onGroupItemButtonClick(String dayTimeId) {
-                (DishActivity.this).onGroupItemButtonClick(dayTimeId);
+
             }
 
             @Override
             public void onGroupItemRemoved(int groupPosition) {
-                (DishActivity.this).onGroupItemRemoved(groupPosition);
+
             }
 
             @Override
             public void onChildItemRemoved(int groupPosition, int childPosition) {
-                (DishActivity.this).onChildItemRemoved(groupPosition, childPosition);
+
             }
 
             @Override
@@ -541,7 +540,7 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
 
             @Override
             public void onChildItemPinned(int groupPosition, int childPosition) {
-                (DishActivity.this).onChildItemPinned(groupPosition, childPosition);
+
             }
 
             @Override
@@ -592,51 +591,6 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
 
 
     public void onGroupItemButtonClick(String groupId) {
-        if (getString(R.string.today_fitnes).equals(groupId)) {
-            Intent intent = new Intent();
-            intent.putExtra(DishActivity.DATE, curentDateandTime);
-            intent.putExtra(PARENT_NAME, parentName);
-            intent.putExtra(AddTodayFitnesActivity.ADD, 1);
-            intent.setClass(this, SportListActivity.class);
-            startActivity(intent);
-        } else if (getString(R.string.water_name).equals(groupId)) {
-            Intent intent = new Intent();
-            try {
-                intent.setClass(this, AddTodayDishActivity.class);
-                intent.putExtra(AddTodayDishActivity.TITLE,
-                        getString(R.string.add_today_dish));
-                intent.putExtra(AddTodayDishActivity.ADD, 1);
-                intent.putExtra(DishActivity.DATE, curentDateandTime);
-                intent.putExtra(AddTodayDishActivity.DISH_NAME,
-                        getString(R.string.water_name));
-                intent.putExtra(AddTodayDishActivity.DISH_CALORISITY, 0);
-                intent.putExtra(AddTodayDishActivity.DISH_FAT, "0");
-                intent.putExtra(AddTodayDishActivity.DISH_CARBON, "0");
-                intent.putExtra(AddTodayDishActivity.DISH_PROTEIN, "0");
-                intent.putExtra(AddTodayDishActivity.DISH_ABSOLUTE_CALORISITY,
-                        0);
-                intent.putExtra(DAY_TIME_ID, groupId);
-                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-
-            // TODO Auto-generated method stub
-            // ((TextView)arg1.findViewById(R.id.textViewDishName)).getText()
-
-           startActivity(intent);
-        }
-        else {
-            Intent intent = new Intent();
-            intent.putExtra(DishActivity.DATE, curentDateandTime);
-            intent.putExtra(PARENT_NAME, parentName);
-
-            intent.putExtra(DAY_TIME_ID, groupId);
-
-            intent.setClass(this, DishListActivity.class);
-            startActivity(intent);
-        }
 
     }
 
@@ -650,19 +604,9 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
         onGroupItemPinned(groupPosition);
     }
 
-    RemoveDishClickListener removeDishClickListener = new RemoveDishClickListener(DishActivity.this);
 
     public void onChildItemRemoved(int groupPosition, int childPosition) {
 
-        String dishId = String.valueOf(findDish(groupPosition, childPosition).getChildId());
-        removeDishClickListener.setDishId(dishId);
-        AlertDialog.Builder builder = new AlertDialog.Builder(
-                DishActivity.this);
-        builder.setMessage(R.string.remove_item_dialog)
-                .setPositiveButton(DishActivity.this.getString(R.string.yes),
-                        removeDishClickListener)
-                .setNegativeButton(DishActivity.this.getString(R.string.no),
-                        removeDishClickListener).show();
     }
 
     public void onChildItemPinned(int groupPosition, int childPosition) {
@@ -673,59 +617,15 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
     }
 
     public void onChildItemClicked(int groupPosition, int childPosition) {
-        Intent intent = new Intent();
-        ExampleExpandableDataProvider.DishItemData dish = findDish(groupPosition, childPosition);
-        intent.putExtra(AddTodayDishActivity.TITLE,
-                R.string.edit_today_dish);
-        intent.putExtra(AddTodayDishActivity.ID, "" + dish.getChildId());
-        intent.putExtra(AddTodayDishActivity.DISH_NAME, dish.getText());
 
-        if (dish.getDishInfo().getCaloricity() >= 0) {
-            intent.setClass(DishActivity.this, AddTodayDishActivity.class);
-        } else {
-
-            intent.setClass(DishActivity.this, AddTodayFitnesActivity.class);
-        }
-
-        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        startActivity(intent);
     }
 
     private void onItemUndoActionClicked() {
-       /* final Fragment fragment = getSupportFragmentManager().findFragmentByTag(FRAGMENT_LIST_VIEW);
-        final long result = getDataProvider().undoLastRemoval();
 
-        if (result == RecyclerViewExpandableItemManager.NO_EXPANDABLE_POSITION) {
-            return;
-        }
-
-        final int groupPosition = RecyclerViewExpandableItemManager.getPackedPositionGroup(result);
-        final int childPosition = RecyclerViewExpandableItemManager.getPackedPositionChild(result);
-
-        if (childPosition == RecyclerView.NO_POSITION) {
-            // group item
-            ((ExpandableDraggableSwipeableExampleFragment) fragment).notifyGroupItemRestored(groupPosition);
-        } else {
-            // child item
-            ((ExpandableDraggableSwipeableExampleFragment) fragment).notifyChildItemRestored(groupPosition, childPosition);
-        }*/
     }
 
-    // implements ExpandableItemPinnedMessageDialogFragment.EventListener
-
     public void onNotifyExpandableItemPinnedDialogDismissed(int groupPosition, int childPosition, boolean ok) {
-        /*final Fragment fragment = getSupportFragmentManager().findFragmentByTag(FRAGMENT_LIST_VIEW);
 
-        if (childPosition == RecyclerView.NO_POSITION) {
-            // group item
-            getDataProvider().getGroupItem(groupPosition).setPinned(ok);
-            ((ExpandableDraggableSwipeableExampleFragment) fragment).notifyGroupItemChanged(groupPosition);
-        } else {
-            // child item
-            getDataProvider().getChildItem(groupPosition, childPosition).setPinned(ok);
-            ((ExpandableDraggableSwipeableExampleFragment) fragment).notifyChildItemChanged(groupPosition, childPosition);
-        }*/
     }
 
     public ExampleExpandableDataProvider getDataProvider() {
@@ -792,18 +692,7 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
         if (fromUser) {
             adjustScrollPositionOnGroupExpanded(groupPosition);
         }
-        if (!SaveUtils.readBoolean(IS_EDIT_TIMES_TIP_SHOWN, false, this)) {
-            if (getData().get(groupPosition).second.size() == 0) {
-                showTipsDialog(2);
-                SaveUtils.writeBoolean(IS_EDIT_TIMES_TIP_SHOWN, true, this);
-            }
-        }
-        if (!SaveUtils.readBoolean(IS_REMOVE_DISH_TIP_SHOWN, false, this)) {
-            if (getData().get(groupPosition).second.size() > 0) {
-                showTipsDialog(1);
-                SaveUtils.writeBoolean(IS_REMOVE_DISH_TIP_SHOWN, true, this);
-            }
-       }
+
     }
 
     private void adjustScrollPositionOnGroupExpanded(int groupPosition) {
@@ -915,330 +804,10 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
     }
 
 
-    OnClickListener loadListener = new OnClickListener() {
-
-        public void onClick(View v) {
-
-            flagLoad = true;
-            if (TemplateDishHelper.getDaysArray(DishActivity.this).size() == 0) {
-                Toast.makeText(DishActivity.this, getString(R.string.templatesempty),
-                        Toast.LENGTH_LONG).show();
-            } else {
-                CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(DishActivity.this);
-                bld.setLayout(R.layout.section_listview_alert_dialog)
-                        .setTitle(getString(R.string.choosetemplate))
-                        .setListView(new OnClickListener() {
-
-                            @Override
-                            public void onClick(View v) {
-                                if (flagLoad) {
-                                    flagLoad = false;
-                                    AlertDialog.Builder builder =
-                                            null;
-                                    selectedTemplate = ((TextView) v).getText().toString();
-
-                                    builder = new AlertDialog.Builder(DishActivity.this);
-
-                                    builder.setMessage(R.string.remove_dialog)
-                                            .setPositiveButton(DishActivity.this.getString(R.string.yes),
-                                                    dialogClickListener)
-                                            .setNegativeButton(DishActivity.this.getString(R.string.no),
-                                                    dialogClickListener).show();
-
-                                }
-                            }
-                        }, getTemplatesAdapter())
-                        .setPositiveButton(R.id.dialogButtonOk, new OnClickListener() {
-
-                            @Override
-                            public void onClick(View v) {
-                                Intent emailIntent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
-                                        "mailto", "bulat.yauheni@gmail.com", null));
-                                emailIntent.putExtra(Intent.EXTRA_SUBJECT, DishActivity.this.getString(R.string.app_name));
-                                emailIntent.putExtra(Intent.EXTRA_TEXT, "");
-                                DishActivity.this.startActivity((Intent.createChooser(emailIntent, "Send email...")));
-                            }
-                        })
-                        .setPositiveButtonText(R.string.agree)
-                        .setNegativeButton(R.id.dialogButtonCancel, new OnClickListener() {
-
-                            @Override
-                            public void onClick(View v) {
-                                // TODO Auto-generated method stub
-
-                            }
-                        })
-                        .setNegativeButtonText(R.string.disagree);
-                bld.show();
-            }
-
-        }
-    };
-
-    OnClickListener saveListener = new OnClickListener() {
-
-        public void onClick(View v) {
-
-            flagLoad = true;
-            final CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(DishActivity.this);
-            bld.setLayout(R.layout.section_input_alert_dialog)
-                    .setTitle(getString(R.string.save))
-                    .setMessage(getString(R.string.template_save))
-                    .setAutoCLose(false)
-                    .setPositiveButton(R.id.dialogButtonOk, new OnClickListener() {
-
-                        @Override
-                        public void onClick(View v) {
-                            EditText templateName = bld.getInputView();
-                            if (templateName.getText().length() < 1) {
-                                templateName.setBackgroundColor(Color.RED);
-                            } else {
-                                Cursor cTemp = null;
-                                try {
-                                    cTemp = TodayDishHelper.getDishesByDate(
-                                            DishActivity.this, curentDateandTime);
-                                    while (cTemp.moveToNext()) {
-                                        try {
-                                            TemplateDishHelper.addNewDish(
-                                                    new TodayDish(
-                                                            cTemp.getFloat(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_ID)),
-                                                            cTemp.getString(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_NAME)),
-                                                            cTemp.getString(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DESCRIPTION)),
-                                                            cTemp.getInt(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_CALORICITY)),
-                                                            cTemp.getString(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_CATEGORY)),
-                                                            cTemp.getInt(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_WEIGHT)),
-                                                            cTemp.getInt(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_CALORICITY)),
-                                                            templateName.getText()
-                                                                    .toString(),
-                                                            cTemp.getLong(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_DATE_LONG)),
-                                                            cTemp.getInt(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_IS_DAY)),
-                                                            cTemp.getString(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_TYPE)),
-                                                            cTemp.getFloat(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_FAT)),
-                                                            cTemp.getFloat(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_FAT)),
-                                                            cTemp.getFloat(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_CARBON)),
-                                                            cTemp.getFloat(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_CARBON)),
-                                                            cTemp.getFloat(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_PROTEIN)),
-                                                            cTemp.getFloat(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_PROTEIN)),
-                                                            cTemp.getInt(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_TIME_HH)),
-                                                            cTemp.getInt(cTemp
-                                                                    .getColumnIndex(DishProvider.TODAY_DISH_TIME_MM))),
-                                                    DishActivity.this);
-                                        } catch (Exception e) {
-                                            e.printStackTrace();
-                                        }
-                                    }
-                                } catch (Exception e) {
-                                    e.printStackTrace();
-                                } finally {
-                                    if (cTemp != null) {
-                                        cTemp.close();
-                                    }
-                                }
-                                Toast.makeText(DishActivity.this,
-                                        getString(R.string.savetemplate),
-                                        Toast.LENGTH_LONG).show();
-                                bld.getDialog().dismiss();
-                            }
-                        }
-                    })
-                    .setPositiveButtonText(R.string.agree)
-                    .setNegativeButton(R.id.dialogButtonCancel, new OnClickListener() {
-
-                        @Override
-                        public void onClick(View v) {
-                            bld.getDialog().dismiss();
-                        }
-                    })
-                    .setNegativeButtonText(R.string.disagree);
-            bld.show();
 
 
-        }
-    };
-
-    private ArrayAdapter<DishType> getTemplatesAdapter() {
-        ArrayList<DishType> types = new ArrayList<DishType>();
-
-        types.addAll(TemplateDishHelper.getDaysArray(DishActivity.this));
-
-        ArrayAdapter<DishType> adapter2 = new ArrayAdapter<DishType>(
-                DishActivity.this, android.R.layout.simple_dropdown_item_1line, types);
-
-        ((ArrayAdapter<DishType>) adapter2)
-                .setDropDownViewResource(android.R.layout.simple_dropdown_item_1line);
-        //  templateSpinner.setAdapter(adapter2);
-        // templateSpinner.setOnItemSelectedListener(spinnerListener);
-        return adapter2;
-    }
-
-    OnItemSelectedListener spinnerListener = new
-            OnItemSelectedListener() {
-
-                public void onItemSelected(AdapterView<?> arg0, View arg1, int arg2, long
-                        arg3) {
-                    if (flagLoad) {
-                        flagLoad = false;
-                        AlertDialog.Builder builder =
-                                null;
-
-                        builder = new AlertDialog.Builder(DishActivity.this);
-
-                        builder.setMessage(R.string.remove_dialog).setPositiveButton(
-                                DishActivity.this.getString(R.string.yes), dialogClickListener)
-                                .setNegativeButton(DishActivity.this.getString(R.string.no),
-                                        dialogClickListener).show();
-
-                    }
-
-                }
-
-                public void onNothingSelected(AdapterView<?> arg0) {
-
-                }
-            };
 
 
-    DialogInterface.OnClickListener dialogClickListener = new DialogInterface.OnClickListener() {
-        public void onClick(DialogInterface dialog, int which) {
-            switch (which) {
-                case DialogInterface.BUTTON_POSITIVE:
-                    try {
-
-                        Cursor cTemp = null;
-                        SimpleDateFormat sdf = new SimpleDateFormat("EEE dd MMMM",
-                                new Locale(SaveUtils.getLang(DishActivity.this)));
-                        Date curentDateandTimeLong = null;
-                        try {
-                            curentDateandTimeLong = sdf.parse(curentDateandTime);
-                        } catch (ParseException e1) {
-                            // TODO Auto-generated catch block
-                            e1.printStackTrace();
-                        }
-                        Date nowDate = new Date();
-                        try {
-                            curentDateandTimeLong.setYear(nowDate.getYear());
-                        } catch (Exception e) {
-                            e.printStackTrace();
-                        }
-                        try {
-                            cTemp = TemplateDishHelper.getDishesByDate(
-                                    DishActivity.this, selectedTemplate);
-                            if (cTemp.getCount() > 0) {
-                                if (0 != SaveUtils.getUserUnicId(DishActivity.this)) {
-                                    // removeDaySocial(curentDateandTime);
-                                }
-                            } else {
-                                Toast.makeText(DishActivity.this,
-                                        getString(R.string.loadtemplateempty),
-                                        Toast.LENGTH_LONG).show();
-                            }
-                            while (cTemp.moveToNext()) {
-                                try {
-                                    TodayDish td = new TodayDish(
-                                            cTemp.getFloat(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_ID)) > 0 ? cTemp
-                                                    .getFloat(cTemp
-                                                            .getColumnIndex(DishProvider.TODAY_DISH_ID))
-                                                    : SaveUtils
-                                                    .getRealWeight(DishActivity.this),
-                                            cTemp.getString(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_NAME)),
-                                            cTemp.getString(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DESCRIPTION)),
-                                            cTemp.getInt(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_CALORICITY)),
-                                            cTemp.getString(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_CATEGORY)),
-                                            cTemp.getInt(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_WEIGHT)),
-                                            cTemp.getInt(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_CALORICITY)),
-                                            curentDateandTime,
-                                            curentDateandTimeLong.getTime(),
-                                            cTemp.getInt(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_IS_DAY)),
-                                            cTemp.getString(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_TYPE)),
-                                            cTemp.getFloat(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_FAT)),
-                                            cTemp.getFloat(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_FAT)),
-                                            cTemp.getFloat(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_CARBON)),
-                                            cTemp.getFloat(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_CARBON)),
-                                            cTemp.getFloat(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_PROTEIN)),
-                                            cTemp.getFloat(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_PROTEIN)),
-                                            cTemp.getInt(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_TIME_HH)),
-                                            cTemp.getInt(cTemp
-                                                    .getColumnIndex(DishProvider.TODAY_DISH_TIME_MM)));
-                                    td.setId(TodayDishHelper.addNewDish(td,
-                                            DishActivity.this));
-                                    if (0 != SaveUtils
-                                            .getUserUnicId(DishActivity.this)) {
-                                        new SocialUpdater(DishActivity.this, td,
-                                                false).execute();
-                                    }
-                                } catch (Exception e) {
-                                    e.printStackTrace();
-                                }
-                            }
-                        } catch (Exception e) {
-                            e.printStackTrace();
-                        } finally {
-                            if (cTemp != null) {
-                                cTemp.close();
-                            }
-                        }
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
-                    initDishTable();
-                    Toast.makeText(DishActivity.this,
-                            getString(R.string.loadtemplate), Toast.LENGTH_LONG)
-                            .show();
-                    break;
-
-                case DialogInterface.BUTTON_NEGATIVE:
-
-                    break;
-            }
-        }
-    };
-
- // dialogVariant - 1 (remove)  2 (edit)
-    public void showTipsDialog(int dialogVariant) {
-        final Dialog dialog2 = new Dialog(DishActivity.this);
-        dialog2.setContentView(R.layout.swipe_tip_dialog);
-
-        dialog2.setCanceledOnTouchOutside(true);
-        switch (dialogVariant) {
-            case 1: dialog2.setTitle(R.string.removing); ((TextView)dialog2.findViewById(R.id.tip_text)).setText(R.string.info_swipe_remove); break;
-            case 2: dialog2.setTitle(R.string.set_notif_title); ((TextView)dialog2.findViewById(R.id.tip_text)).setText(R.string.info_swipe_edit); break;
-        }
-
-        dialog2.show();
-    }
 
     @Override
     public void onValueSelected(Entry e, int dataSetIndex, Highlight h) {
@@ -1252,40 +821,5 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
 
     }
 
-    // SKU for our subscription ()
-    class RemoveDishClickListener implements DialogInterface.OnClickListener {
 
-        private String dishId;
-        private Context context;
-
-
-        RemoveDishClickListener(Context ctx) {
-            context = ctx;
-        }
-
-        public void setDishId(String id) {
-            dishId = id;
-        }
-
-        public void onClick(DialogInterface dialog, int which) {
-            switch (which) {
-                case DialogInterface.BUTTON_POSITIVE:
-                    try {
-
-                        TodayDishHelper.removeDish(dishId, context);
-                        new SocialUpdater(context, dishId).execute();
-                        // need update headers values after removing
-                        dishId = null;
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
-                    break;
-
-                case DialogInterface.BUTTON_NEGATIVE:
-                    dishId = null;
-                    break;
-            }
-            initDishTable();
-        }
-    } ;
 }

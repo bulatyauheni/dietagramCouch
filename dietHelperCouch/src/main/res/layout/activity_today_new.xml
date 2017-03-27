@@ -217,7 +217,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/light_green"
-                android:paddingTop="50dp"
+                android:paddingTop="55dp"
                 app:layout_behavior="@string/appbar_scrolling_view_behavior"
                 app:layout_collapseMode="pin">
 
@@ -274,7 +274,7 @@
                     android:layout_height="wrap_content"
                     android:paddingRight="10dp"
                     android:layout_alignParentRight="true"
-                    android:clickable="true"
+                    android:clickable="false"
                     android:src="@drawable/weight_button_today"
                     />
 

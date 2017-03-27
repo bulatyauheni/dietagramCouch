@@ -201,7 +201,8 @@
                 android:layout_gravity="right|center_vertical"
                 android:layout_margin="10dp"
                 android:background="@drawable/btn_add_food"
-                android:clickable="true" />
+                android:clickable="true"
+                android:visibility="gone"/>
         </FrameLayout>
     </FrameLayout>
 </FrameLayout>

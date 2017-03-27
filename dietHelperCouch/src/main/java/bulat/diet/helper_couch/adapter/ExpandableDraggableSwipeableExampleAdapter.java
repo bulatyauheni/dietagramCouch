@@ -506,7 +506,7 @@ public class ExpandableDraggableSwipeableExampleAdapter
             return Swipeable.REACTION_CAN_NOT_SWIPE_BOTH_H;
         }
 
-        return Swipeable.REACTION_CAN_SWIPE_BOTH_H;
+        return Swipeable.REACTION_CAN_NOT_SWIPE_BOTH_H;
     }
 
     @Override
@@ -515,7 +515,7 @@ public class ExpandableDraggableSwipeableExampleAdapter
             return Swipeable.REACTION_CAN_NOT_SWIPE_BOTH_H;
         }
 
-        return Swipeable.REACTION_CAN_SWIPE_BOTH_H;
+        return Swipeable.REACTION_CAN_NOT_SWIPE_BOTH_H;
     }
 
     @Override
