@@ -4,76 +4,64 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\facebook.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commenticon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commenticon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\water_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\water_icon.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\water_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\water_icon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settingsbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settingsbutton2.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon_select.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon_select.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level5.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level5.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addfollower.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addfollower.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deletefollowerselected.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\deletefollowerselected.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\barcode_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\barcode_icon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thin_man.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\thin_man.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chartpie2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chartpie2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon_select.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon_select.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contacts.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\contacts.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pl.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\pl.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addfollowerselected.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addfollowerselected.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_thumb_pressed.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\seek_thumb_pressed.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_add_food.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_add_food.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\exit_select.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nobutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\nobutton.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\waterbuttontoday2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\waterbuttontoday2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vkbutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vkbutton.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vkbutton_sel.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vkbutton_sel.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\exit.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\more2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fitnesbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fitnesbutton.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\facebook.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commentbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commentbutton.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\by.png",
@@ -88,20 +76,24 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level4.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\removebutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\removebutton.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fitnesbutton2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fitnesbutton2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ru.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ru.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_rempve.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chat_rempve.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontoday.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontoday.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_abonnement.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\icon_abonnement.png"
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ru.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ru.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_black_24dp.png",
@@ -112,24 +104,16 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\thin_man.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\notification.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fitnesbutton.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fitnesbutton.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\noselected_tab.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\noselected_tab.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vk.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vk.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commentbutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commentbutton.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percent.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\percent.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon.png",
@@ -140,52 +124,60 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_pressed_holo.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\searchbutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\searchbutton.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fine.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fine.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chart2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\today_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\today_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level3.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level3.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon_select.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontoday2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontoday2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbutton.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\email.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\email.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\header_bg.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\header_bg.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\waterbuttontoday.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\waterbuttontoday.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settingsbutton2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settingsbutton2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_swipe_edit.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_item_swipe_edit.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nobutton_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\nobutton_select.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_icon2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calendar_icon2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon_select.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calculator_icon_select.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fat_point.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_fat_point.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rationbutton.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\rationbutton.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\selected_tab.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\selected_tab.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_focused_holo.png",
@@ -196,40 +188,56 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\halth_weman.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\halth_weman.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\es.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\es.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_prot_point.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_prot_point.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbuttonblue.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbuttonblue.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\homebutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\homebutton.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\barcode_icon2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\barcode_icon2.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\message2.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontype2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontype2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_add_black_24dp.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_group_add_black_24dp.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\devider.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\devider.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chart2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbutton_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbutton_select.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_secondary_holo.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_secondary_holo.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit_select.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\exit_select.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\homebutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\homebutton.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_thumb_normal.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\seek_thumb_normal.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rationbutton2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\rationbutton2.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\searchbutton2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\searchbutton2.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\man.png",
@@ -240,24 +248,28 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_track_holo_light.9.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_abonnement.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\icon_abonnement.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_icon_select.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calendar_icon_select.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_weight_normal.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_weight_normal.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level1.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level1.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbuttonblueselected.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbuttonblueselected.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\noselected_tab.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\noselected_tab.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_rempve2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chat_rempve2.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sentnewsbutton2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\sentnewsbutton2.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settingsbutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settingsbutton.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contacts2.png",
@@ -268,20 +280,16 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\message.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_weight_highlighted.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_weight_highlighted.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\today_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\today_icon.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fat_man.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fat_man.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_add_food_selected.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_add_food_selected.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\food_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\food_icon.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\facebook_2.png",
@@ -292,32 +300,40 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\nobutton.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_m.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\icon_m.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weightbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\weightbutton2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_add_food_selected.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_add_food_selected.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fat_man.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fat_man.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_black_24dp.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings_black_24dp.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\es.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\es.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_carb_point.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_carb_point.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\halth_weman.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\halth_weman.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification_selected.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\notification_selected.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fitnes_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fitnes_icon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon_select.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_secondary_holo.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_secondary_holo.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_track_holo_light.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_m.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\icon_m.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\devider.png",
@@ -326,6 +342,510 @@
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chartpie.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chartpie.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contacts2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\contacts2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deletefollower.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\deletefollower.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_rempve2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chat_rempve2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_swipe_dismiss.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_item_swipe_dismiss.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\de.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\de.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weightbutton2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\weightbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\updatebutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\updatebutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chartpie.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chartpie.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voice_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\voice_icon.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\halth_man.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\halth_man.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbutton2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settingsbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settingsbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widg_man.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\widg_man.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_normal_holo.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chart.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voice_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\voice_icon.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\message2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification_selected.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\notification_selected.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_thumb_pressed.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\seek_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\by.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\by.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_swipe_pinned.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_item_swipe_pinned.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rationbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\rationbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_carb_point.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_carb_point.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level3.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level3.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weman.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\weman.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commentbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commentbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbuttonblueselected.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbuttonblueselected.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calculator_icon2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_swipe_edit.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_item_swipe_edit.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\en.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\en.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calculator_icon_select.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sentnewsbutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\sentnewsbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percent.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\percent.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\homebutton2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\homebutton2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fat_point.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_fat_point.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\updatebutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\updatebutton.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\barcode_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\barcode_icon.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_rempve.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chat_rempve.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pl.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\pl.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\removebutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\removebutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\halth_man.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\halth_man.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commenticon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commenticon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contacts.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\contacts.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\water_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\water_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_focused_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level5.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level5.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addfollower.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addfollower.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\barcode_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\barcode_icon.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon_select.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon_select.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\contacts.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\contacts.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widg_fatman.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\widg_fatman.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pl.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\pl.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_add_food.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_add_food.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vkbutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vkbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vkbutton_sel.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vkbutton_sel.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\more2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\homebutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\homebutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bad.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\bad.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_abonnement.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\icon_abonnement.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_history_black_24dp.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_history_black_24dp.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\noselected_tab.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\noselected_tab.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commentbutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commentbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\searchbutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\searchbutton.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\selected_tab.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\selected_tab.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chart2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_weight_normal.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_weight_normal.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\today_icon2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\today_icon2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\man.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\man.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\header_bg.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\header_bg.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\today_icon_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\today_icon_select.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settingsbutton2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settingsbutton2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon_select.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calculator_icon_select.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\selected_tab.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\selected_tab.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\halth_weman.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\halth_weman.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_prot_point.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_prot_point.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calculator_icon2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\removebutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\removebutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontype2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontype2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_primary_holo.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_add_black_24dp.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_group_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commenticon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commenticon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calculator_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fitnesbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fitnesbutton2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\homebutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\homebutton.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\searchbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\searchbutton.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontype.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontype.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\searchbutton2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\searchbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fitnes_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fitnes_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deletefollower.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\deletefollower.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addfollower.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addfollower.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vkbutton_sel.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vkbutton_sel.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_weight_normal.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_weight_normal.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_pressed_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontoday2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontoday2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\header_bg.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\header_bg.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbuttonblueselected.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbuttonblueselected.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settingsbutton.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settingsbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_weight_highlighted.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_weight_highlighted.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\today_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\today_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontoday.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontoday.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level4.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level4.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fat_man.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fat_man.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wall.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\wall.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_m.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\icon_m.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\barcode_icon2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\barcode_icon2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weightbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\weightbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_add_food_selected.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_add_food_selected.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vk.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vk.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_carb_point.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_carb_point.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fitnes_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fitnes_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\searchbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\searchbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widg_man.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\widg_man.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_secondary_holo.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_add_black_24dp.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_group_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbutton.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\food_icon.png",
@@ -340,72 +860,88 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addfollowerselected.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deletefollower.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\deletefollower.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sentnewsbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\sentnewsbutton.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\email.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\email.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_rempve2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chat_rempve2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\updatebutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\updatebutton.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\bg.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_swipe_dismiss.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_item_swipe_dismiss.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbutton_select.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\okbutton_select.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sentnewsbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\sentnewsbutton2.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weightbutton.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\weightbutton.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weightbutton2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\weightbutton2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\more2.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbuttontype.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbuttontype.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\deletefollowerselected.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\deletefollowerselected.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\addbutton2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbutton2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings_icon2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\settings_icon2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widg_man.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\widg_man.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_normal_holo.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_normal_holo.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\message.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\more.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chart.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rationbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\rationbutton.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voice_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\voice_icon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_disabled_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_disabled_holo.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\message2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\message2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fine.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\fine.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level5.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level5.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\facebook_2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\facebook_2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ru.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ru.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\waterbuttontoday2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\waterbuttontoday2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_weight_highlighted.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_weight_highlighted.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\de.png",
@@ -424,28 +960,36 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\updatebutton2.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\en.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\en.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_icon2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calendar_icon2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chart.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chart.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\commentbutton2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\commentbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calendar_icon_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calendar_icon_select.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_primary_holo.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_primary_holo.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\activity_level3.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\activity_level3.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_disabled_holo.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_disabled_holo.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\calculator_icon2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\calculator_icon2.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_swipe_edit.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_item_swipe_edit.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\exit.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wall.9.png",
@@ -456,6 +1000,10 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\addbutton.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chartpie2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chartpie2.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widg_fatman.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\widg_fatman.png"
     },
@@ -464,24 +1012,20 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\today_icon2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\en.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\en.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\removebutton2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\removebutton2.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_icon2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\list_icon2.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weman.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\weman.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sentnewsbutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\sentnewsbutton.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vkbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\vkbutton.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_item_swipe_dismiss.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_item_swipe_dismiss.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_history_black_24dp.png",
@@ -492,43 +1036,31 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\seek_thumb_normal.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percent.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\percent.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\homebutton2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\homebutton2.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fat_point.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_fat_point.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\multislider_scrubber_control_normal_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-hdpi\\multislider_scrubber_control_normal_holo.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bad.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\bad.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\updatebutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\updatebutton.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_rempve.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\chat_rempve.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\today_icon_select.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\today_icon_select.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\more.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nobutton_select.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\nobutton_select.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\removebutton.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\removebutton.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_add_food.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\btn_add_food.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\halth_man.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\halth_man.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_prot_point.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-hdpi\\ic_prot_point.png"
     }
 ]

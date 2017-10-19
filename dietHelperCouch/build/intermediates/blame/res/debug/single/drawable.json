@@ -1,31 +1,35 @@
 [
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\me.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\me.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_save_as_template_normal.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_save_as_template_normal.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_normal_state.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_normal_state.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_disabled.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_disabled.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\reset_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\reset_button_xml.xml"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_black.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_black.9.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tabs_bg_selector.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tabs_bg_selector.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_dragging_state.xml",
@@ -36,16 +40,12 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_pressed.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_btn.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_btn.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\exit2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\exit2.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_selected.9.png",
@@ -56,12 +56,24 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar_icon.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_disabled.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_disabled.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_expanded_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_expanded_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_pressed.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_pressed.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tab_selector.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\back_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_disabled.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_disabled.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\message_button_xml.xml",
@@ -72,52 +84,64 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_normal.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_normal.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_pressed_100.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_pressed_100.9.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_swiping_state.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_swiping_state.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.github.armcha\\LuseenBottomNavigation\\1.8.2\\res\\drawable\\shadow.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_bad.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_bad.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_swiping_active_state.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_swiping_active_state.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\commenticon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\commenticon.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\news_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\news_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tabs_bg_selector.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tabs_bg_selector.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_red.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fade_red.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_right.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_right.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btnb.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btnb.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\progress_bar_states.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_btn_100.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_btn_100.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_icon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_icon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\example_scrubber_secondary_holo.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\example_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_red.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_red.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_icon.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\settings_icon.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\change_button_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\change_button_xml.xml"
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_icon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_icon.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
@@ -128,16 +152,20 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_normal_100.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_left.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_left.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\chart_pie_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\chart_pie_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calculator_icon.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_dragging_active_state.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_dragging_active_state.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_today_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\add_button_today_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btnb.png",
@@ -160,24 +188,12 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\water_button_today_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_green.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_green.9.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_dragging_active_state.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_dragging_active_state.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider_h.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_divider_h.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_normal_state.xml",
@@ -188,12 +204,808 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fbbig.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected_10.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_template_normal.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_template_normal.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btnb2_select.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btnb2_select.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_rounded_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\contact_rounded_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_normal_100.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_normal_100.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bkbig.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bkbig.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_dragging_active_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_dragging_active_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_disabled.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_disabled.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_normal_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_normal_10.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_group_item_right.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_group_item_right.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\vk_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_today_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\add_button_today_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\notification_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_disabled.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_disabled.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_pressed.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_pressed.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_focused_10.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_focused_10.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fbbig.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fbbig.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_selected.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_selected.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_focused_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_focused_10.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\border_widget.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\border_widget.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_normal.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_normal.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\commenticon.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\commenticon.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_black3.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_black3.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_neutral.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_neutral.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_normal_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_normal_state.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_pressed_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_pressed_10.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_right.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_right.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selected.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tab_bg_selected.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_swiping_active_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_swiping_active_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_selected.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_selected.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_swiping_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_swiping_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_group_item_left.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_group_item_left.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\today_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\today_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fbbig2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fbbig2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_focused.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_focused.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\multislider_scrubber_progress_horizontal_holo_light.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable\\multislider_scrubber_progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\comment_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_pressed.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_pressed.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\button_rounded.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\button_rounded.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\marker2.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\multislider_scrubber_control_selector_holo_light.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable\\multislider_scrubber_control_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_normal_100.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_normal_100.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\radio_unchecked.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_10.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_template_highlighted.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_template_highlighted.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\dell_button_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\dell_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_type_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\add_button_type_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fbbig2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fbbig2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_disabled_focused.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_disabled_focused.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_selected_100.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_selected_100.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\radio_checked.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\button_rounded.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\button_rounded.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_dragging_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_dragging_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\ok_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_group_item_left.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_group_item_left.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_template_highlighted.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_template_highlighted.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_selected.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_selected.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\dn.gif",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\dn.gif"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_red.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fade_red.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\weight_button_today.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\weight_button_today.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\man_widget.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\man_widget.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_save_as_template_normal.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_save_as_template_normal.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_remove_button_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\chat_remove_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_rounded_corners.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\edittext_rounded_corners.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\noconection.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\noconection.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator_selector.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calculator_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\marker2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\news_button_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\news_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_normal_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_normal_10.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_selector.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_btn.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_btn.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z3_mdpi.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z3_mdpi.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_best.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_best.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\no_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\no_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_10.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_10.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\weight_button_today.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\weight_button_today.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z3.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z3.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_normal.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_normal.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z1.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z1.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_rounded_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\contact_rounded_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_save_as_template_highlighted.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_save_as_template_highlighted.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_best.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_best.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text_color.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fb_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bkbig.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bkbig.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_btn_100.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_btn_100.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_selector.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\settings_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_green.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_green.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected_10.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected_10.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\back_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\multislider_scrubber_progress_horizontal_holo_light.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable\\multislider_scrubber_progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\unfollow_button_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\unfollow_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z3_mdpi.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z3_mdpi.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_button_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\comment_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_bad.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_bad.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\me.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\me.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_selected_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_selected_10.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_disabled.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_disabled.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\dell_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\dell_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\noconection.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\noconection.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\commentbutton.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\commentbutton.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\exit2.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\exit2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\add_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_widget.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\woman_widget.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\reset_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\reset_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\recepy_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\recepy_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.github.armcha\\LuseenBottomNavigation\\1.8.2\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_swiping_active_state.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_swiping_active_state.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tabs_bg_selector.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tabs_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\dn.gif",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\dn.gif"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_right.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_right.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider_h.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_divider_h.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\unfollow_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\unfollow_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\change_button_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\change_button_xml.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_left.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_left.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_today_xml.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\add_button_today_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_green.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_green.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_dragging_active_state.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_dragging_active_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar_icon.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider_h.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_divider_h.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_selector.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\settings_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_type_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\add_button_type_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\example_scrubber_primary_holo.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\example_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\contacts_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z1.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z1.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_refresh.png",
@@ -204,12 +1016,20 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_template_normal.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_template_normal.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\no_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\no_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_selector.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\man_widget.png",
@@ -236,32 +1056,32 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_rounded_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\contact_rounded_xml.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_normal_100.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_normal_100.9.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_normal_10.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_normal_10.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\changeweight_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\changeweight_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_dragging_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_dragging_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\commentbutton2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\commentbutton2.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider_v.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_divider_v.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\border_widget.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\border_widget.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -272,8 +1092,8 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_pressed_100.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_pressed_100.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_button_xml.xml",
@@ -288,24 +1108,36 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tab_bg_selected.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_ic_visibility.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_selected_100.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_selected_100.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_focused_10.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_focused_10.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.github.armcha\\LuseenBottomNavigation\\1.8.2\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_unselected.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\settings_icon.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_rounded_corners.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\edittext_rounded_corners.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\search_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\search_button_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_black.9.png",
@@ -320,14 +1152,6 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_selected.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_selected.9.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\red_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\red_button_xml.xml"
     },
@@ -336,32 +1160,28 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_material_button_selected.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\border_widget.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\border_widget.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_selected.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_material_button_selected.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_checked.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\radio_checked.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btnb2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btnb2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_normal.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_normal.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\today_selector.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\today_selector.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\commenticon.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\commenticon.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_black3.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_black3.9.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_neutral.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_neutral.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider_v.xml",
@@ -372,12 +1192,16 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_swiping_active_state.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_done_background_color_dark.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_ic_visibility.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_swiping_state.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_swiping_state.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\radio_unchecked.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\recepy_button_xml.xml",
@@ -396,16 +1220,12 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_pressed_100.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_normal.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_normal.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_btn_100.xml",
@@ -416,32 +1236,44 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fitnes_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\follow_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\follow_button_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_normal.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_normal.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_normal_100.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_normal_100.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_focused.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_focused.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calculator.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_left.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_left.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\exit2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\exit2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_normal.9.png",
@@ -456,12 +1288,20 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_button_login_logo.xml"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\red_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\red_button_xml.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_btn.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_btn.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\today_selector.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\today_selector.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bkbig2.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bkbig2.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\multislider_scrubber_control_selector_holo_light.xml",
@@ -476,20 +1316,8 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_pressed_10.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_button_send_background.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\button_rounded.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\button_rounded.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\marker2.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_group_item_swiping_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_swiping_state.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\chart_pie_button_xml.xml",
@@ -508,10 +1336,6 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_button_icon.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_unchecked.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\radio_unchecked.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -520,68 +1344,60 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\contacts_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_template_highlighted.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_template_highlighted.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\follow_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\follow_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\dell_button_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\dell_button_xml.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_type_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\add_button_type_xml.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fbbig2.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fbbig2.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btnb2.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btnb2.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_selected_100.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_selected_100.9.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_selector.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\example_scrubber_primary_holo.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\example_scrubber_primary_holo.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\chart_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\chart_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_item_neutral.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_item_neutral.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_group_item_left.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_group_item_left.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input_pressed.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input_pressed.9.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\notification_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_normal_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_normal_state.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\search_button_xml.xml",
@@ -600,6 +1416,10 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_pressed_10.9.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_dragging_active_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_dragging_active_state.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_swipe_group_item_right.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_swipe_group_item_right.xml"
     },
@@ -608,16 +1428,28 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_group_item_expanded_state.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_widget.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\woman_widget.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_normal.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_normal.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_black2.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_black2.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_pressed.9.png",
@@ -628,56 +1460,52 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_done_background_color.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text_color.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\settings_button_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\dn.gif",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\dn.gif"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fade_red.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fade_red.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_input.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_input.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_remove_button_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\chat_remove_button_xml.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fb_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fb_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_rounded_corners.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\edittext_rounded_corners.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\noconection.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\noconection.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\me.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\me.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calculator.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calculator.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\chart_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\chart_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\news_button_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\news_button_xml.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\message_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\message_button_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
@@ -688,52 +1516,56 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_btn.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_selector.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calendar_selector.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_red.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_red.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_template_normal.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\btn_template_normal.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z3_mdpi.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z3_mdpi.9.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_best.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_best.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_pressed_10.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_pressed_10.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z1_mdpi.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z1_mdpi.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_10.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_10.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_btn_100.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_btn_100.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\vk_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\vk_button_xml.xml"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_normal.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_normal.9.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\tab_selector.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_button_blue_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\ok_button_blue_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected_100.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected_100.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_refresh.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\fitnes_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\fitnes_button_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_dragging_state.xml",
@@ -744,24 +1576,12 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\calculator_icon.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_material_button_background.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\weight_button_today.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\weight_button_today.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z1.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z1.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\today_icon.png",
@@ -772,12 +1592,12 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\ok_button_blue_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text_color.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\button_text_color.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled_focused.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled_focused.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bkbig.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bkbig.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -788,16 +1608,24 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_selected_10.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_selector.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\settings_selector.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_remove_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\chat_remove_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\list_icon.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\list_icon.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\blue_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\water_button_today_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\water_button_today_xml.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_unselected.xml",
@@ -808,16 +1636,16 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.20.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected_10.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected_10.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_selected_100.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_selected_100.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_up_disabled_focused.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_up_disabled_focused.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\background_black3.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_black3.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button_xml.xml",
@@ -828,8 +1656,12 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\background_black2.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\timepicker_down_disabled.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\timepicker_down_disabled.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\change_button_xml.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\change_button_xml.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable\\mdtp_done_background_color.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
@@ -844,39 +1676,23 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\up.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\multislider_scrubber_progress_horizontal_holo_light.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable\\multislider_scrubber_progress_horizontal_holo_light.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\commentbutton.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\commentbutton.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\unfollow_button_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\unfollow_button_xml.xml"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\material_shadow_z1_mdpi.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\material_shadow_z1_mdpi.9.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\changeweight_button_xml.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\changeweight_button_xml.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_button_xml.xml",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\comment_button_xml.xml"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_status_bad.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable\\icon_status_bad.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_item_swiping_active_state.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable\\bg_item_swiping_active_state.xml"
     }
 ]

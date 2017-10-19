@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable-land\\mdtp_done_background_color.xml"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color.xml",

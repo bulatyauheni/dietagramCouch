@@ -394,20 +394,20 @@
                 android:textSize="15dip"
                 android:textStyle="bold"
                 android:visibility="gone" />
+            <LinearLayout
+                android:layout_width="0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.8"
+                android:gravity="center_vertical|left"
+                android:orientation="horizontal">
 
-            <Button
-                android:id="@+id/buttonWeight"
-                android:layout_width="40dip"
-                android:layout_height="40dip"
-                android:layout_margin="5dip"
-                android:background="@drawable/changeweight_button_xml"
-                android:clickable="true"
-                android:focusable="false"
-                android:gravity="center_vertical"
-                android:maxLines="1"
-                android:textColor="@color/text_color_blue"
-                android:textSize="12dip" >
-            </Button>
+                <com.github.mikephil.charting.charts.PieChart
+                    android:id="@+id/chartMini"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp" />
+
+            </LinearLayout>
+
         </LinearLayout>
     </LinearLayout>
 

@@ -8,6 +8,14 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\eye.mp3"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-de\\base_create.txt",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\base_create.txt"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-de\\fitnes.txt",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\fitnes.txt"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-de\\fitnes.txt",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\fitnes.txt"
     },
@@ -16,7 +24,19 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\base_create.txt"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-de\\category.txt",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\category.txt"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-de\\full_base.txt",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\full_base.txt"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-de\\full_base.txt",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\full_base.txt"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\raw-de\\eye.mp3",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\raw-de\\eye.mp3"
     }
 ]

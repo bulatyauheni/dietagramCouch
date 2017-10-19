@@ -46,7 +46,7 @@
             android:layout_marginTop="14dp"
             android:ems="10"
             android:hint="@string/enter_phone"
-            android:inputType="textPassword"
+            android:inputType="phone"
             android:singleLine="true" >
 
             <requestFocus />
@@ -61,7 +61,7 @@
             android:layout_marginTop="21dp"
             android:ems="10"
             android:hint="@string/enter_dietagram_id"
-            android:inputType="textPassword"
+            android:inputType="numberDecimal"
             android:singleLine="true" />
 
         <EditText
@@ -78,7 +78,7 @@
 
 
         <Button
-            android:id="@+id/button1"
+            android:id="@+id/buttonAddClient"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignLeft="@+id/edtEmail"

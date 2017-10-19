@@ -18,7 +18,7 @@
             android:layout_width="40dip"
             android:layout_height="40dip"
             android:layout_margin="5dip"
-            android:background="@drawable/notification_button_xml"
+            android:background="@drawable/weman"
             android:gravity="center_vertical" />
 
         <LinearLayout
@@ -56,9 +56,10 @@
                         android:layout_width="wrap_content"
                         android:layout_height="fill_parent"
                         android:gravity="center_vertical"
-                        android:text="dsasdas"
+                        android:text="1111111111"
                         android:textColor="@color/black"
                         android:textSize="12dip"
+                        android:visibility="gone"
                         android:textStyle="bold" />
                 </LinearLayout>
 
@@ -71,7 +72,7 @@
                     android:orientation="horizontal" >
 
                     <TextView
-                        android:id="@+id/textViewNotificationTime"
+                        android:id="@+id/textViewIncome"
                         android:layout_width="wrap_content"
                         android:layout_height="fill_parent"
                         android:gravity="center_vertical"

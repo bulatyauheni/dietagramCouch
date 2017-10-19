@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_info.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\xml\\appwidget_info.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\xml\\analytics_config.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\xml\\analytics_config.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\xml\\large_widget_info.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\xml\\large_widget_info.xml"
     },
@@ -10,5 +18,9 @@
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\xml\\analytics_config.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\xml\\analytics_config.xml"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\xml\\large_widget_info.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\xml\\large_widget_info.xml"
     }
 ]

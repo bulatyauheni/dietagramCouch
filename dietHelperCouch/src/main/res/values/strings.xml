@@ -109,7 +109,7 @@
     <string name="today_fitnes">Активность</string>
     <string name="edit_today_fitnes">Изменить активность</string>
 
-    <string name="body_weight">Ваш вес:</string>
+    <string name="body_weight">Вес тела:</string>
     <string name="kgram">кг</string>
 
     <!-- Social -->
@@ -379,4 +379,9 @@
     <string name="enter_email">Ваш емэйл</string>
     <string name="couch_last_name">Ваша фамилия</string>
     <string name="register">Зарегистрироваться</string>
+
+    <string name="payout">Вывести средства</string>
+    <string name="instruction">Инстуркция</string>
+
+    <string name="client_info">Информация о клиенте</string>
 </resources>

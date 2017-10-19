@@ -1,15 +1,23 @@
 [
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_history_black_24dp.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_history_black_24dp.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\seek_thumb_normal.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_normal_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_normal_holo.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\seek_thumb_pressed.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\seek_thumb_pressed.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_focused_holo.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_focused_holo.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_focused_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_m.png",
@@ -20,20 +28,12 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_normal_holo.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\guesture_swap_right_or_left.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\guesture_swap_right_or_left.png"
-    },
-    {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_secondary_holo.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_secondary_holo.9.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_pressed_holo.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_pressed_holo.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_track_holo_light.9.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_track_holo_light.9.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_history_black_24dp.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_history_black_24dp.png"
     },
     {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\seek_thumb_normal.png",
@@ -44,6 +44,74 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_group_add_black_24dp.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_group_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_black_24dp.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_group_add_black_24dp.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_group_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_disabled_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_history_black_24dp.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_history_black_24dp.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_pressed_holo.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_focused_holo.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\guesture_pinch_to_zoom.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\guesture_pinch_to_zoom.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_track_holo_light.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_m.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\icon_m.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\guesture_swap_right_or_left.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\guesture_swap_right_or_left.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\guesture_swap_right_or_left.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\guesture_swap_right_or_left.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_secondary_holo.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\seek_thumb_pressed.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\seek_thumb_pressed.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_secondary_holo.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_track_holo_light.9.png",
+        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_primary_holo.9.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_primary_holo.9.png"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_control_disabled_holo.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_control_disabled_holo.png"
     },
@@ -52,15 +120,11 @@
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\src\\main\\res\\drawable-mdpi\\guesture_pinch_to_zoom.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_black_24dp.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings_black_24dp.png"
-    },
-    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\multislider_scrubber_primary_holo.9.png",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\io.apptik.widget\\multislider\\1.2\\res\\drawable-mdpi\\multislider_scrubber_primary_holo.9.png"
     },
     {
-        "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_group_add_black_24dp.png",
-        "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_group_add_black_24dp.png"
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_black_24dp.png",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings_black_24dp.png"
     }
 ]

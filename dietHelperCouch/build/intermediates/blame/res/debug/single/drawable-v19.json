@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-v19\\mdtp_done_background_color.xml",
+        "source": "D:\\dCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable-v19\\mdtp_done_background_color.xml"
+    },
+    {
         "merged": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\res\\merged\\debug\\drawable-v19\\mdtp_done_background_color.xml",
         "source": "D:\\CC\\DGRGIT\\dietagramCouch\\dietHelperCouch\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\3.0.0\\res\\drawable-v19\\mdtp_done_background_color.xml"
     }
