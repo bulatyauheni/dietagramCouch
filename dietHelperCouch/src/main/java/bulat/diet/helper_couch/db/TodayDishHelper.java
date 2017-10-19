@@ -612,7 +612,7 @@ public static float getBodyWeightByDate(long date, Context context) {
 		Cursor c =  allDishesDB.rawQuery(
 		"Select "+ DishProvider.TODAY_DISH_DATE + " , sum("+DishProvider.TODAY_DISH_CALORICITY +") as val, sum(fatw) as fat, sum(carbw) as carbon, sum(protw) as protein, "+
         " sum(clearweight) as weight, sum(waterweight) as woterweight, _id, "+DishProvider.TODAY_DISH_ID+" as bodyweight, count(_id) as count ,"+ DishProvider.TODAY_DISH_DATE_LONG +
-        ","+ DishProvider.TODAY_BICEPS +  ","+ DishProvider.TODAY_CHEST +  ","+ DishProvider.TODAY_NECK +  ","+ DishProvider.TODAY_FOREARM +  ","+ DishProvider.TODAY_PELVIS + 
+        ","+ DishProvider.TODAY_BICEPS +  ","+ DishProvider.TODAY_CHEST +  ","+ DishProvider.TODAY_NECK +  ","+ DishProvider.TODAY_FOREARM +  ","+ DishProvider.TODAY_PELVIS +
         ","+ DishProvider.TODAY_SHIN +","+ DishProvider.TODAY_WAIST +","+ DishProvider.TODAY_HIP +","+ DishProvider.TODAY_DISH_SERVER_ID +
         " from day_dishes as a " +
         "left JOIN (SELECT _id as _id2, "+DishProvider.TODAY_DISH_WEIGHT+" as clearweight , "+DishProvider.TODAY_DISH_FAT +" as fatw, "+DishProvider.TODAY_DISH_CARBON +" as carbw, "+DishProvider.TODAY_DISH_PROTEIN +" as protw" +
@@ -639,12 +639,18 @@ public static float getBodyWeightByDate(long date, Context context) {
 	}
 	
 	public static List<Day> getDaysStat(Context context, int days) {
-
-		//'SELECT date, sum(value) as value  FROM dishs GROUP BY date ORDER BY id';
-		ContentResolver cr = context.getContentResolver();
-		String selection = DishProvider.TODAY_DISH_ID + " <> 0 and " + DishProvider.TODAY_CHEST +" <> 0 " + ") GROUP BY (" + DishProvider.TODAY_DISH_DATE;
-		 String[] columns = new String[] { DishProvider.TODAY_DISH_DATE, "sum("+DishProvider.TODAY_DISH_CALORICITY +") as val, sum("+DishProvider.TODAY_DISH_WEIGHT +") as bodyweight, _id, "+DishProvider.TODAY_DISH_ID+" as bodyweight, "+  DishProvider.TODAY_DISH_DATE_LONG, DishProvider.TODAY_FOREARM, DishProvider.TODAY_WAIST, DishProvider.TODAY_HIP, DishProvider.TODAY_NECK, DishProvider.TODAY_SHIN, DishProvider.TODAY_PELVIS, DishProvider.TODAY_BICEPS, DishProvider.TODAY_CHEST };
-		Cursor c = cr.query(DishProvider.TODAYDISH_CONTENT_URI, columns, selection, null, DishProvider.TODAY_DISH_DATE_LONG + " DESC LIMIT " + days + " "); //getDaysNew(context);
+		DatabaseHelper dbHelper = new DatabaseHelper(context);
+		if(allDishesDB == null){
+			allDishesDB = dbHelper.getWritableDatabase();
+		}
+		Cursor c =  allDishesDB.rawQuery("Select " + DishProvider.TODAY_DISH_DATE + ", sum("+DishProvider.TODAY_DISH_CALORICITY +
+				") as val, sum("+DishProvider.TODAY_DISH_WEIGHT +") as bodyweight, _id, " + DishProvider.TODAY_DISH_ID +
+				" as bodyweight, "+  DishProvider.TODAY_DISH_DATE_LONG +", " + DishProvider.TODAY_FOREARM+ ", " + DishProvider.TODAY_WAIST+
+				", " + DishProvider.TODAY_HIP+ ", " + DishProvider.TODAY_NECK+ ", " +  DishProvider.TODAY_SHIN+ ", " +
+				DishProvider.TODAY_PELVIS+ ", " +  DishProvider.TODAY_BICEPS+ ", " +  DishProvider.TODAY_CHEST +
+				" from day_dishes where "+ DishProvider.TODAY_DISH_ID + " <> 0 "
+				 + " GROUP BY " + DishProvider.TODAY_DISH_DATE + " ORDER BY " + DishProvider.TODAY_DISH_DATE_LONG + " DESC  limit " + days, null);
+		//Cursor c = cr.query(DishProvider.TODAYDISH_CONTENT_URI, columns, selection, null, DishProvider.TODAY_DISH_DATE_LONG + " DESC LIMIT " + days + " "); //getDaysNew(context);
 		ArrayList<Day> dayList = new ArrayList<Day>();
 		Day d = new Day();
 		try {
@@ -660,8 +666,8 @@ public static float getBodyWeightByDate(long date, Context context) {
 				d.setDateStr(c.getString(c
 						.getColumnIndex(DishProvider.TODAY_DISH_DATE)));
 
-				d.setBiceps(Float.parseFloat(c.getString(c
-						.getColumnIndex(DishProvider.TODAY_BICEPS))) + VolumeInfo.MIN_CHEST);
+				/*d.setBiceps(Float.parseFloat(c.getString(c
+						.getColumnIndex(DishProvider.TODAY_BICEPS))) + VolumeInfo.MIN_BICEPS);
 				d.setChest(Float.parseFloat(c.getString(c
 						.getColumnIndex(DishProvider.TODAY_CHEST)))+VolumeInfo.MIN_CHEST);
 				d.setNeck(Float.parseFloat(c.getString(c
@@ -676,7 +682,7 @@ public static float getBodyWeightByDate(long date, Context context) {
 						.getColumnIndex(DishProvider.TODAY_WAIST)))+VolumeInfo.MIN_WAIST);
 				d.setHip(Float.parseFloat(c.getString(c
 						.getColumnIndex(DishProvider.TODAY_HIP)))+VolumeInfo.MIN_HIP);
-				
+				*/
 				dayList.add(d);
 	        }
 		}catch (Exception e) {

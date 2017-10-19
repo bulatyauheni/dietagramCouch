@@ -8,12 +8,14 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
+import android.text.TextUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import bulat.diet.helper_couch.R;
 import bulat.diet.helper_couch.utils.GATraker;
 import bulat.diet.helper_couch.utils.MessagesUpdater;
+import bulat.diet.helper_couch.utils.SaveCouchInfo;
 import bulat.diet.helper_couch.utils.SaveUtils;
 
 public class BaseActivity extends AppCompatActivity {
@@ -89,10 +91,10 @@ public class BaseActivity extends AppCompatActivity {
 
     public void checkLimit(int sum) {
         int mode = SaveUtils.getMode(this);
-        int customLimit = SaveUtils.getCustomLimit(this);
-        if (customLimit > 0) {
-            SaveUtils.saveBMR(String.valueOf(customLimit), this);
-            SaveUtils.saveMETA(String.valueOf(customLimit), this);
+        String customLimit = SaveCouchInfo.getCurrentClientLimit(this);
+        if (!TextUtils.isEmpty(customLimit)) {
+            SaveUtils.saveBMR(customLimit, this);
+            SaveUtils.saveMETA(customLimit, this);
         }
         TextView tvSurplus = (TextView) findViewById(R.id.textViewSurplusValue);
         ImageView ivIcon = (ImageView) findViewById(R.id.statusIcon);

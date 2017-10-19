@@ -23,6 +23,8 @@ import bulat.diet.helper_couch.item.ClientDTO;
 public class ClientsAdapter extends RecyclerView.Adapter<ClientsAdapter.ClientsHolder>{
     List<ClientDTO> mClients;
     DietHelperActivity mContext;
+
+
     public ClientsAdapter(List<ClientDTO> clients, DietHelperActivity context) {
         mClients = clients;
         mContext = context;
@@ -39,8 +41,10 @@ public class ClientsAdapter extends RecyclerView.Adapter<ClientsAdapter.ClientsH
     @Override
     public void onBindViewHolder(ClientsHolder holder, int position) {
         ClientDTO client = mClients.get(position);
-        holder.name.setText(client.getFirstname());
+        holder.name.setText(client.getFirstname() +  " " +  client.getLastname());
         holder.email.setText(client.getEmail());
+        holder.income.setText(client.getIncome());
+        holder.position = position;
     }
 
     @Override
@@ -49,19 +53,22 @@ public class ClientsAdapter extends RecyclerView.Adapter<ClientsAdapter.ClientsH
     }
 
     public class ClientsHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
+        private TextView income;
         public TextView name;
         public TextView email;
+        public int position;
         public ClientsHolder(View view) {
             super(view);
             name = (TextView) view.findViewById(R.id.clientNameTW);
-            email = (TextView) view.findViewById(R.id.clientNameTW);
+            email = (TextView) view.findViewById(R.id.clientEmailTW);
+            income = (TextView) view.findViewById(R.id.textViewIncome);
             email.setOnClickListener(this);
             view.setOnClickListener(this);
         }
 
         @Override
         public void onClick(final View view) {
-            ((DietHelperActivity) mContext).goToCalendar(email.getText().toString());
+            ((DietHelperActivity) mContext).goToCalendar(email.getText().toString(), name.getText().toString(), mClients.get(position).getLimit());
         }
     }
 }

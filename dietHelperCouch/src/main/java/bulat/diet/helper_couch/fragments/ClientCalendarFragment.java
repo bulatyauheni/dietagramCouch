@@ -25,6 +25,7 @@ import bulat.diet.helper_couch.activity.AddTodayDishActivity;
 import bulat.diet.helper_couch.activity.CalendarActivityGroup;
 import bulat.diet.helper_couch.activity.DishActivity;
 import bulat.diet.helper_couch.activity.TemplateActivity;
+import bulat.diet.helper_couch.activity.WeightChartActivity;
 import bulat.diet.helper_couch.adapter.DaysAdapter;
 import bulat.diet.helper_couch.adapter.SocialCalendarAdapter;
 import bulat.diet.helper_couch.db.TodayDishHelper;
@@ -82,6 +83,8 @@ public class ClientCalendarFragment extends android.support.v4.app.Fragment {
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
 
         super.onViewCreated(view, savedInstanceState);
+        header = (TextView) view.findViewById(R.id.textViewTitle);
+        header.setText(SaveCouchInfo.getCurrentClientName(getActivity()));
         avgCalorisityView = (TextView) view.findViewById(R.id.textViewAVGValue);
         avgFatView = (TextView) view.findViewById(R.id.textViewFat);
         avgProteinView = (TextView) view.findViewById(R.id.textViewProtein);
@@ -90,7 +93,17 @@ public class ClientCalendarFragment extends android.support.v4.app.Fragment {
         TextView tvFp = (TextView) view.findViewById(R.id.textViewFatPercent);
         TextView tvCp = (TextView) view.findViewById(R.id.textViewCarbonPercent);
         TextView tvPp = (TextView) view.findViewById(R.id.textViewProteinPercent);
+        Button chartButton = (Button) view.findViewById(R.id.buttonChart);
+        chartButton.setOnClickListener(new View.OnClickListener() {
 
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                //showDialog(DIALOG_CHART);
+                Intent intent = new Intent();
+                intent.setClass(getActivity(), WeightChartActivity.class);
+                startActivity(intent);
+            }
+        });
         avgCalorisityView.setText(avgVals[0] + " " + getString(R.string.kcal));
 
         avgFatView.setText(avgVals[1]);
@@ -117,7 +130,7 @@ public class ClientCalendarFragment extends android.support.v4.app.Fragment {
                 initData();
             }
         });
-
+        initData();
     }
 
     private void initData() {

@@ -281,7 +281,6 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
 
         bindActivity();
         initRecyclerView(savedInstanceState);
-        mWeightButton.setOnClickListener(changeWeightClickListener);
     }
 
     private void initDishTable() {
@@ -484,10 +483,10 @@ public class DishActivity extends BaseActivity implements RecyclerViewExpandable
         initDishTable();
 
         try {
-            header.setText(date == null ? title.format(new Date()) : title
-                    .format(sdf.parse(date)));
+            header.setText(date == null ? title.format(new Date()) : title.format(sdf.parse(date)));
         } catch (ParseException e1) {
             e1.printStackTrace();
+            header.setText(date);
         }
     }
 

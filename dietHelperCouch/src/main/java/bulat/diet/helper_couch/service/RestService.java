@@ -35,6 +35,9 @@ public interface  RestService {
 	@GET("/registerCouch.php")
 	Observable<BasicDTO> registerCouch(@Query("first_name") String name, @Query("last_name") String lastName, @Query("email") String email, @Query("phone") String phone, @Query("country") String country);
 
+	@GET("/authCouch.php")
+	Observable<CouchDTO> authCouch(@Query("g_id") String gid);
+
 	@GET("/getCouch.php")
 	Observable<CouchDTO> getCouchInfo(@Query("couch_id") String id);
 
@@ -43,6 +46,8 @@ public interface  RestService {
 
 	/*@GET("/users/{login}")
 	Observable<Client> getClients(@Path("login") String login);*/
+    @GET("/addClient.php")
+    Observable<BasicDTO> addClient(@Query("couch_id") String id, @Query("g_id") String g_id, @Query("firstname") String firstname, @Query("lastname") String lastname, @Query("phone") String phone, @Query("email") String email, @Query("dgrid") String dgrid);
 
 	@GET("/upload/{clientid}")
 	Observable<List<TodayItemDTO>> getClientsHistory(@Path("clientid") String clientid);

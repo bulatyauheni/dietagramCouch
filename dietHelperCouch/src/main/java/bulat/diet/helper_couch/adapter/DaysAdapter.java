@@ -3,11 +3,14 @@ package bulat.diet.helper_couch.adapter;
 import java.text.DecimalFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Locale;
 
 import android.app.Dialog;
 import android.content.Context;
+import android.content.Intent;
 import android.database.Cursor;
+import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -17,10 +20,22 @@ import android.widget.CursorAdapter;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
+
+import com.github.mikephil.charting.animation.Easing;
+import com.github.mikephil.charting.charts.PieChart;
+import com.github.mikephil.charting.components.Legend;
+import com.github.mikephil.charting.data.Entry;
+import com.github.mikephil.charting.data.PieData;
+import com.github.mikephil.charting.data.PieDataSet;
+import com.github.mikephil.charting.formatter.PercentFormatter;
+import com.github.mikephil.charting.utils.ColorTemplate;
+
 import bulat.diet.helper_couch.R;
 import bulat.diet.helper_couch.activity.CalendarActivity;
 import bulat.diet.helper_couch.activity.CalendarActivityGroup;
+import bulat.diet.helper_couch.activity.DishActivity;
 import bulat.diet.helper_couch.activity.Info;
+import bulat.diet.helper_couch.activity.StatisticFCPActivity;
 import bulat.diet.helper_couch.activity.VolumeInfo;
 import bulat.diet.helper_couch.db.DishProvider;
 import bulat.diet.helper_couch.db.TodayDishHelper;
@@ -80,7 +95,6 @@ public class DaysAdapter extends CursorAdapter {
 		String itemWoterWeight = c.getString(c.getColumnIndex("woterweight"));
 		String itemWeight = c.getString(c.getColumnIndex("weight"));
 		String itemBodyWeight = "";
-		//if (Integer.parseInt(itemCaloricity) > 0) {
 
 			try {
 				if ((c.getInt(c.getColumnIndex("count")) - 1) > 0) {
@@ -97,11 +111,6 @@ public class DaysAdapter extends CursorAdapter {
 				e.printStackTrace();
 			}
 
-		//} else {
-		//	itemBodyWeight = String.valueOf(SaveUtils.getWeight(context)
-		//			+ Info.MIN_WEIGHT);
-			//v.setBackgroundResource(R.color.light_broun);
-		//}
 		TextView dateTextView = (TextView) v.findViewById(R.id.textViewDay);
 
 		dateTextView.setText(dayDate.split(" ")[1]);
@@ -209,157 +218,124 @@ public class DaysAdapter extends CursorAdapter {
 			bodyweightView.setText(itemBodyWeight + " "
 					+ context.getString(R.string.kgram));
 		}
-		
 
-		Button weightButton = (Button) v.findViewById(R.id.buttonWeight);
-		if (weightButton != null) {
-			weightButton.setId(c.getInt(c.getColumnIndex("_id")));
+
+		PieChart mChartClient = (PieChart) v.findViewById(R.id.chartMini);
+
+		float fat = Float.parseFloat(c.getString(c.getColumnIndex("fat"))==null?"0":c.getString(c.getColumnIndex("fat")));
+
+		float carbon = Float.parseFloat(c.getString(c.getColumnIndex("carbon"))==null?"0":c.getString(c.getColumnIndex("carbon")));
+
+		float protein =Float.parseFloat(c.getString(c.getColumnIndex("protein"))==null?"0":c.getString(c.getColumnIndex("protein")));
+
+		float[] data = {protein, carbon, fat};
+		try {
+			if (protein == 0&& carbon==0 && fat==0) {
+				v.setBackgroundResource(R.color.bg_group_item_dragging_state);
+			} else {
+				v.setBackgroundResource(R.color.main_color);
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
+		drawChart(mChartClient, data);
 		TextView tvi = (TextView) v.findViewById(R.id.textViewId);
 		tvi.setText(c.getString(c
 				.getColumnIndex(DishProvider.TODAY_DISH_DATE)));
-		if (weightButton != null) {
-
-			// weightButton.setId(Integer.parseInt(c.getString(c.getColumnIndex(DishProvider.TODAY_DISH_DATE_LONG))));
-			weightButton.setOnClickListener(new View.OnClickListener() {
-
-				public void onClick(View v) {
-					Button mbut = (Button) v;
-					GATraker.sendEvent(WEIGHT_BTN, CALENDAR_WEIGHT_BUTTON_CLICK);
-					final TextView tvi2 = (TextView) ((View) mbut.getParent())
-							.findViewById(R.id.textViewId);
-					final Dialog dialog = new Dialog(parent);
-					dialog.setContentView(R.layout.update_weight_dialog);
-					dialog.setTitle(R.string.change_weight_dialog_title);
-					LinearLayout l1 = (LinearLayout) dialog.findViewById(R.id.linearLayoutForearm);
-					if(SaveUtils.getForearmEnbl(ctx))l1.setVisibility(View.VISIBLE);
-					LinearLayout l2 = (LinearLayout) dialog.findViewById(R.id.linearLayoutWaist);
-					if(SaveUtils.getWaistEnbl(ctx))l2.setVisibility(View.VISIBLE);
-					LinearLayout l3 = (LinearLayout) dialog.findViewById(R.id.linearLayoutChest);
-					if(SaveUtils.getChestEnbl(ctx))l3.setVisibility(View.VISIBLE);
-					LinearLayout l4 = (LinearLayout) dialog.findViewById(R.id.linearLayoutNeck);
-					if(SaveUtils.getNeckEnbl(ctx))l4.setVisibility(View.VISIBLE);
-					LinearLayout l5 = (LinearLayout) dialog.findViewById(R.id.linearLayoutShin);
-					if(SaveUtils.getShinEnbl(ctx))l5.setVisibility(View.VISIBLE);
-					LinearLayout l6 = (LinearLayout) dialog.findViewById(R.id.linearLayoutBiceps);
-					if(SaveUtils.getBicepsEnbl(ctx))l6.setVisibility(View.VISIBLE);
-					LinearLayout l7 = (LinearLayout) dialog.findViewById(R.id.linearLayoutPelvis);
-					if(SaveUtils.getPelvisEnbl(ctx))l7.setVisibility(View.VISIBLE);
-					LinearLayout l8 = (LinearLayout) dialog.findViewById(R.id.linearLayoutHip);
-					if(SaveUtils.getHipEnbl(ctx))l8.setVisibility(View.VISIBLE);
-					StringUtils.setSpinnerValues(dialog, ctx);
-					final Spinner weightSpinner = (Spinner) dialog
-							.findViewById(R.id.search_weight);
-					final Spinner weightSpinnerDec = (Spinner) dialog
-							.findViewById(R.id.search_weight_decimal);
-					DialogUtils.setArraySpinnerValues(weightSpinner,
-							Info.MIN_WEIGHT, Info.MAX_WEIGHT, ctx);
-					DialogUtils.setArraySpinnerValues(weightSpinnerDec, 0, 10,
-							ctx);
-					weightSpinner.setSelection(SaveUtils.getWeight(ctx));
-					weightSpinnerDec.setSelection(SaveUtils.getWeightDec(ctx));
-					final Spinner chestSpinner = (Spinner) dialog.findViewById(R.id.SpinnerChest);
-					final Spinner chestDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerChestDecimal);
-					
-					final Spinner pelvisSpinner = (Spinner) dialog.findViewById(R.id.SpinnerPelvis);
-					final Spinner pelvisDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerPelvisDecimal);
-					
-					final Spinner neckSpinner = (Spinner) dialog.findViewById(R.id.SpinnerNeck);
-					final Spinner neckDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerNeckDecimal);
-					
-					final Spinner bicepsSpinner = (Spinner) dialog.findViewById(R.id.SpinnerBiceps);
-					final Spinner bicepsDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerBicepsDecimal);
-					
-					final Spinner forearmSpinner = (Spinner) dialog.findViewById(R.id.SpinnerForearm);
-					final Spinner forearmDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerForearmDecimal);
-					
-					final Spinner waistSpinner = (Spinner) dialog.findViewById(R.id.SpinnerWaist);
-					final Spinner waistDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerWaistDecimal);
-					
-					final Spinner hipSpinner = (Spinner) dialog.findViewById(R.id.SpinnerHip);
-					final Spinner hipDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerHipDecimal);
-					
-					final Spinner shinSpinner = (Spinner) dialog.findViewById(R.id.SpinnerShin);
-					final Spinner shinDecSpinner = (Spinner) dialog.findViewById(R.id.SpinnerShinDecimal);
-					Button buttonOk = (Button) dialog
-							.findViewById(R.id.buttonYes);
-					buttonOk.setOnClickListener(new OnClickListener() {
-
-						public void onClick(View v) {
-
-
-								String lastDate = TodayDishHelper.getLastDate(ctx);
-
-								if (tvi2.getText().toString().equals(lastDate)) {
-									SaveUtils.saveWeight((int) weightSpinner
-											.getSelectedItemId(), ctx);
-									SaveUtils.saveWeightDec(
-											(int) weightSpinnerDec
-													.getSelectedItemId(), ctx);
-									SaveUtils.saveChest((int)chestSpinner.getSelectedItemId(),ctx);
-									SaveUtils.saveChestDec((int)chestDecSpinner.getSelectedItemId(),ctx);
-									
-									SaveUtils.savePelvis((int)pelvisSpinner.getSelectedItemId(),ctx);
-									SaveUtils.savePelvisDec((int)pelvisDecSpinner.getSelectedItemId(),ctx);
-									
-									SaveUtils.saveNeck((int)neckSpinner.getSelectedItemId(),ctx);
-									SaveUtils.saveNeckDec((int)neckDecSpinner.getSelectedItemId(),ctx);
-									
-									SaveUtils.saveBiceps((int)bicepsSpinner.getSelectedItemId(),ctx);
-									SaveUtils.saveBicepsDec((int)bicepsDecSpinner.getSelectedItemId(),ctx);
-									
-									SaveUtils.saveForearm((int)forearmSpinner.getSelectedItemId(),ctx);
-									SaveUtils.saveForearmDec((int)forearmDecSpinner.getSelectedItemId(),ctx);
-									
-									SaveUtils.saveWaist((int)waistSpinner.getSelectedItemId(),ctx);
-									SaveUtils.saveWaistDec((int)waistDecSpinner.getSelectedItemId(),ctx);
-									
-									SaveUtils.saveHip((int)hipSpinner.getSelectedItemId(),ctx);
-									SaveUtils.saveHipDec((int)hipDecSpinner.getSelectedItemId(),ctx);
-									
-									SaveUtils.saveShin((int)shinSpinner.getSelectedItemId(),ctx);
-									SaveUtils.saveShinDec((int)shinDecSpinner.getSelectedItemId(),ctx);
-									if (SaveUtils.getUserUnicId(ctx) != 0) {
-										new SocialUpdater(ctx).execute();
-									}
-								}
-								TodayDishHelper.updateBobyParams(
-										ctx,
-										tvi2.getText().toString(),
-										String.valueOf(((float) weightSpinner
-												.getSelectedItemId() + Info.MIN_WEIGHT)
-												+ (float) weightSpinnerDec
-														.getSelectedItemId()
-												/ 10),
-										new BodyParams(String.valueOf((float) chestSpinner.getSelectedItemId() +VolumeInfo.MIN_CHEST + (float) chestDecSpinner.getSelectedItemId()/10), 
-													String.valueOf((float) bicepsSpinner.getSelectedItemId()+VolumeInfo.MIN_BICEPS + (float) bicepsDecSpinner.getSelectedItemId()/10), 
-													String.valueOf((float) pelvisSpinner.getSelectedItemId()+VolumeInfo.MIN_PELVIS + (float) pelvisDecSpinner.getSelectedItemId()/10), 
-													String.valueOf((float) neckSpinner.getSelectedItemId()+VolumeInfo.MIN_NECK + (float) neckDecSpinner.getSelectedItemId()/10), 
-													String.valueOf((float) waistSpinner.getSelectedItemId()+VolumeInfo.MIN_WAIST + (float) waistDecSpinner.getSelectedItemId()/10), 
-													String.valueOf((float) forearmSpinner.getSelectedItemId()+VolumeInfo.MIN_FOREARM + (float) forearmDecSpinner.getSelectedItemId()/10), 
-													String.valueOf((float) hipSpinner.getSelectedItemId()+VolumeInfo.MIN_HIP + (float) hipDecSpinner.getSelectedItemId()/10), 
-													String.valueOf((float) shinSpinner.getSelectedItemId()+VolumeInfo.MIN_SHIN + (float) shinDecSpinner.getSelectedItemId()/10)));
-								dialog.cancel();
-								page.resume();
-							}
-					});
-					Button nobutton = (Button) dialog
-							.findViewById(R.id.buttonNo);
-					nobutton.setOnClickListener(new OnClickListener() {
-
-						public void onClick(View v) {
-							dialog.cancel();
-						}
-					});
-					dialog.show();
-					
-				}
-			});
-		}
-
 	}
 
-	
+	private void drawChart(PieChart mChartClient, float[] data) {
+
+		initChart(mChartClient);
+		mChartClient.setCenterText(ctx.getString(R.string.yourCheet));
+		setChartData(mChartClient, 3, 100, data);
+	}
+
+	private void setChartData(PieChart mChart, int count, float range, float[] data) {
+
+		ArrayList<Entry> yVals1 = new ArrayList<Entry>();
+
+		// IMPORTANT: In a PieChart, no values (Entry) should have the same
+		// xIndex (even if from different DataSets), since no values can be
+		// drawn above each other.
+		for (int i = 0; i < count; i++) {
+			yVals1.add(new Entry(data[i], i));
+		}
+
+		ArrayList<String> xVals = new ArrayList<String>();
+
+		for (int i = 0; i < count + 1; i++)
+			xVals.add(mParties[i % mParties.length]);
+
+		PieDataSet dataSet = new PieDataSet(yVals1, "Election Results");
+		dataSet.setSliceSpace(1f);
+		dataSet.setSelectionShift(1f);
+
+		// add a lot of colors
+
+		ArrayList<Integer> colors = new ArrayList<Integer>();
+
+		for (int c : ColorTemplate.VORDIPLOM_COLORS)
+			colors.add(c);
+
+
+
+		dataSet.setColors(colors);
+
+		PieData pieData = new PieData(xVals, dataSet);
+		pieData.setValueFormatter(new PercentFormatter());
+		pieData.setValueTextSize(1f);
+		pieData.setValueTextColor(Color.TRANSPARENT);
+		mChart.setData(pieData);
+
+		// undo all highlights
+		mChart.highlightValues(null);
+
+		mChart.invalidate();
+	}
+	protected void initChart(PieChart mChart) {
+		// TODO Auto-generated method stub
+		mChart.setUsePercentValues(false);
+		mChart.setDescription("");
+
+		mChart.setDragDecelerationFrictionCoef(0.95f);
+		mChart.setCenterText("");
+
+		mChart.setExtraOffsets(0.f, 0.f, 0.f, 0.f);
+
+		mChart.setDrawHoleEnabled(true);
+		mChart.setHoleColor(Color.WHITE);
+
+		mChart.setTransparentCircleColor(Color.WHITE);
+		mChart.setTransparentCircleAlpha(10);
+
+		mChart.setHoleRadius(8f);
+		mChart.setTransparentCircleRadius(10f);
+
+		mChart.setDrawCenterText(false);
+		mChart.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent();
+				intent.setClass(ctx, StatisticFCPActivity.class);
+				ctx.startActivity(intent);
+			}
+		});
+		mChart.setRotationAngle(0);
+		// enable rotation of the chart by touch
+		mChart.setRotationEnabled(true);
+		mChart.setHighlightPerTapEnabled(true);
+
+
+		//mChart.setOnChartValueSelectedListener(this);
+		mChart.animateY(1400, Easing.EasingOption.EaseInOutQuad);
+		// mChart.spin(2000, 0, 360);
+		Legend l = mChart.getLegend();
+		l.setPosition(Legend.LegendPosition.RIGHT_OF_CHART);
+		l.setEnabled(false);
+	}
 	public int checkLimit(int sum, float bodyweight){
 		int BMR = getBMR(bodyweight);
 		int META = getMeta(bodyweight);
@@ -385,7 +361,11 @@ public class DaysAdapter extends CursorAdapter {
 				return 0;
 			}
 		default:
-			return 0;
+			if(sum > META){
+				return 1;
+			}else{
+				return 0;
+			}
 		}
 		}catch (Exception e) {
 			e.printStackTrace();

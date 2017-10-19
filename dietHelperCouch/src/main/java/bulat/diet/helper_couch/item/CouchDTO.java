@@ -5,6 +5,9 @@ package bulat.diet.helper_couch.item;
  */
 
 public class CouchDTO {
+
+
+    private String id;
     private String firstname;
     private String lastname;
     private String email;
@@ -12,6 +15,13 @@ public class CouchDTO {
     private String country;
     private String income;
 
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
     public String getFirstname() {
         return firstname;
     }

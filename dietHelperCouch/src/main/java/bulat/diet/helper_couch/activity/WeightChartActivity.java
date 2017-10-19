@@ -79,10 +79,9 @@ public class WeightChartActivity extends Activity implements
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		readyToRate = (!SaveUtils.isAllreadyRate(WeightChartActivity.this.getParent().getParent())) && (TodayDishHelper.getDaysStat(this).size() > 9);
 		getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
 				WindowManager.LayoutParams.FLAG_FULLSCREEN);
-		View viewToLoad = LayoutInflater.from(this.getParent().getParent())
+		View viewToLoad = LayoutInflater.from(this)
 				.inflate(R.layout.activity_combined, null);
 		this.setContentView(viewToLoad);
 		GATraker.sendScreen(this);
@@ -346,7 +345,7 @@ public class WeightChartActivity extends Activity implements
 		}
 	}
 	public void showTipsDialog() {
-		final Dialog dialog2 = new Dialog(WeightChartActivity.this.getParent().getParent());
+		final Dialog dialog2 = new Dialog(WeightChartActivity.this);
 		dialog2.setContentView(R.layout.pinch_tip_dialog);
 		dialog2.setCanceledOnTouchOutside(true);
 		dialog2.setTitle(R.string.statistic_weight); ((TextView)dialog2.findViewById(R.id.tip_text)).setText(R.string.info_pinch);
@@ -456,22 +455,22 @@ public class WeightChartActivity extends Activity implements
 	protected void onDestroy() {
 		if (readyToRate) {
 		try {
-			SaveUtils.setAllreadyRate(true, WeightChartActivity.this.getParent().getParent());
-			CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(WeightChartActivity.this.getParent().getParent());
+			SaveUtils.setAllreadyRate(true, WeightChartActivity.this);
+			CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(WeightChartActivity.this);
 			bld.setLayout(R.layout.section_alert_dialog_two_buttons)
-			.setMessage(WeightChartActivity.this.getParent().getString(R.string.do_you_like))		
+			.setMessage(WeightChartActivity.this.getString(R.string.do_you_like))
 			.setPositiveButton(R.id.dialogButtonOk, new OnClickListener() {
 				
 				@Override
 				public void onClick(View v) {
-					CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(WeightChartActivity.this.getParent().getParent());
+					CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(WeightChartActivity.this);
 					bld.setLayout(R.layout.section_alert_dialog_two_buttons)
-					.setMessage(WeightChartActivity.this.getParent().getString(R.string.rating_plaese))			
+					.setMessage(WeightChartActivity.this.getString(R.string.rating_plaese))
 					.setPositiveButton(R.id.dialogButtonOk, new OnClickListener() {
 						
 						@Override
 						public void onClick(View v) {
-							WeightChartActivity.this.getParent().getParent().startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + WeightChartActivity.this.getParent().getParent().getPackageName())));
+							WeightChartActivity.this.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + WeightChartActivity.this.getPackageName())));
 						}
 					})
 					.setPositiveButtonText(R.string.agree)
@@ -492,18 +491,18 @@ public class WeightChartActivity extends Activity implements
 
 				@Override
 				public void onClick(View v) {
-					CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(WeightChartActivity.this.getParent().getParent());
+					CustomAlertDialogBuilder bld = new CustomAlertDialogBuilder(WeightChartActivity.this);
 					bld.setLayout(R.layout.section_alert_dialog_two_buttons)
-					.setMessage(WeightChartActivity.this.getParent().getString(R.string.complain_plaese))			
+					.setMessage(WeightChartActivity.this.getString(R.string.complain_plaese))
 					.setPositiveButton(R.id.dialogButtonOk, new OnClickListener() {
 						
 						@Override
 						public void onClick(View v) {
 							Intent emailIntent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
 						            "mailto","bulat.yauheni@gmail.com", null));
-							emailIntent.putExtra(Intent.EXTRA_SUBJECT, WeightChartActivity.this.getParent().getString(R.string.app_name));
+							emailIntent.putExtra(Intent.EXTRA_SUBJECT, WeightChartActivity.this.getString(R.string.app_name));
 							emailIntent.putExtra(Intent.EXTRA_TEXT, "");
-							WeightChartActivity.this.getParent().getParent().startActivity((Intent.createChooser(emailIntent, "Send email...")));
+							WeightChartActivity.this.startActivity((Intent.createChooser(emailIntent, "Send email...")));
 						}
 					})
 					.setPositiveButtonText(R.string.agree)

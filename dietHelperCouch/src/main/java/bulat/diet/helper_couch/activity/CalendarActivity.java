@@ -172,7 +172,6 @@ public class CalendarActivity extends BaseActivity {
 				+ "%)");
 
 		checkLimit(Integer.valueOf(avgVals[0]));
-		header.setText(getString(R.string.tab_calendar_header));
 		c = TodayDishHelper.getDaysNew(getApplicationContext());
 		if (c != null) {
 			try {
